@@ -4,12 +4,9 @@ This is a Hello World program written in c#. This is an exercise in exploring ID
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
+I used vs code to create this program. Vs code is a coding platform that allows you to program in a variety of languages by downloading extensions for your languages. I used the .NET, C#, and C# Dev Kit extensions to create my hello world program. 
 {Describe the programming language that you used}
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+Na

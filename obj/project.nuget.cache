@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WVVDsGbqPnSscNyhmGdsj2I/DNwySD9YPiR36vsnRCrQxpFATnCCEVtVJIu0xuXdPf3jQ7D25JB5I3RUp17FXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dcwat\\OneDrive\\Documents\\Projects\\hello-world\\hello-world.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dcwat\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\dcwat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\dcwat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\dcwat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
